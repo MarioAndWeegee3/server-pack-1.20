@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-1.20.1-1.7.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/3WIslIUo/audioplayer-1.20.1-1.7.1.jar"
+hash-format = "sha1"
+hash = "8168e2300e16be889001e23d6ec7030b7ccc519a"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "3WIslIUo"

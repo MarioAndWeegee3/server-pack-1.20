@@ -1,0 +1,13 @@
+name = "AutoSlabs"
+filename = "autoslabs-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6GPje96/versions/jcamsMzS/autoslabs-1.1.2.jar"
+hash-format = "sha1"
+hash = "cdf289e308cb09ea244a50692b1f04f284d41855"
+
+[update]
+[update.modrinth]
+mod-id = "d6GPje96"
+version = "jcamsMzS"

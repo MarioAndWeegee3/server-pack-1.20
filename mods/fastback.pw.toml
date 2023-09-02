@@ -1,0 +1,13 @@
+name = "Fast Backups"
+filename = "fastback-0.15.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/CN3rfBNu/fastback-0.15.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "b5a8b59d6dd2d844cc586bc2462e666849003702"
+
+[update]
+[update.modrinth]
+mod-id = "ZHKrK8Rp"
+version = "CN3rfBNu"

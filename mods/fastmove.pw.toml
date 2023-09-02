@@ -1,0 +1,13 @@
+name = "FastMove - Parkour Movement"
+filename = "FastMove-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XmqpPthc/versions/HHbaChVS/FastMove-1.0.0.jar"
+hash-format = "sha1"
+hash = "2b29c071deb530941ffe5f2a57c4d6dcf2d3de7d"
+
+[update]
+[update.modrinth]
+mod-id = "XmqpPthc"
+version = "HHbaChVS"

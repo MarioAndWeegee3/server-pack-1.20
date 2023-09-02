@@ -1,0 +1,13 @@
+name = "Origins Minus"
+filename = "origins-minus-2.0.7+1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gbOL9is1/versions/iF2I2vmf/origins-minus-2.0.7%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "d4e8433e3c41f548d95cc6cd7e07621f4c838680"
+
+[update]
+[update.modrinth]
+mod-id = "gbOL9is1"
+version = "iF2I2vmf"

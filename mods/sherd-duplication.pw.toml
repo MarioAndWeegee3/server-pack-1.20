@@ -1,0 +1,13 @@
+name = "Sherd Duplication"
+filename = "SherdDuplication-Fabric-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38Vc7azQ/versions/7Eq3H1G4/SherdDuplication-Fabric-1.20.1-2.0.2.jar"
+hash-format = "sha1"
+hash = "659dccc4c540a1acefecec9bd571f2a2247f5044"
+
+[update]
+[update.modrinth]
+mod-id = "38Vc7azQ"
+version = "7Eq3H1G4"
