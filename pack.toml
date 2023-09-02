@@ -1,12 +1,12 @@
 name = "Server Pack 1.20"
 author = "MarioAndWeegee3"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a31dac883900595f1a9caa54622b1fd4765da83e0a55143e090f85ed597dcd9"
+hash = "e368783adf1079fde10fadac4fa32fdafad9f4b947024067bdf7159c8144205b"
 
 [versions]
 minecraft = "1.20.1"
