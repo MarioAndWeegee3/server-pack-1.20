@@ -1,6 +1,6 @@
 name = "Smart Villagers Follow Emeralds"
 filename = "smart-villagers-follow-emeralds-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KCvFkdNn/versions/SCHXG0KP/smart-villagers-follow-emeralds-1.0.0.jar"

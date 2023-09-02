@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "73e44ed2f48be83cef03c9351d12a5367dec56e2c4bd6d131494ae94017e776c"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
 
 [[files]]
@@ -12,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
+hash = "71be7378deec66e2eadf37bd17d53f8495aad7d7fe114b08da2c5ed9f51f29ba"
 metafile = true
 
 [[files]]
@@ -32,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "fb690ad8942a841901a3e5c8d279c179f2707ef4e4d5e97564c813e1c21b95c3"
+hash = "faf1f9fefc35f36cc23f65f68ae82a70bf92032d2c66975bd19145e870c8c092"
 metafile = true
 
 [[files]]
@@ -122,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
-hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
+hash = "334e125dec5101702c5fcd36b20806c20b0625bcf82d7462cc247165474f3802"
 metafile = true
 
 [[files]]
@@ -182,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
 metafile = true
 
 [[files]]
@@ -542,12 +546,12 @@ metafile = true
 
 [[files]]
 file = "mods/slumber.pw.toml"
-hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
+hash = "aafa022bd0c208ef58940abfff711aea8fc2d2fdd27ba5b5050e9aa4260ec448"
 metafile = true
 
 [[files]]
 file = "mods/smart-villagers-follow-emeralds.pw.toml"
-hash = "bda5e7d21b698facaa7c5807eb10ddb6a6c4a6928ece5fe1a914eb9bf6932079"
+hash = "ff9164335ca5bf50bfe8e5bbe3c53dd419b1533e0a80fbf9cb2db723e77147b1"
 metafile = true
 
 [[files]]
