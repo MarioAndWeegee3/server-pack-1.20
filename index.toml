@@ -588,11 +588,6 @@ hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
-metafile = true
-
-[[files]]
 file = "mods/redstone-bits.pw.toml"
 hash = "51c20196755aa26e389a0f601d39ed84ae2bbf0ed2f22b835da9a757883d22e8"
 metafile = true
